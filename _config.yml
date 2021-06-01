@@ -2,7 +2,7 @@ title: Bobby Baratheon
 email: joshciardi@outlook.com
 description: >- 
   temp
-baseurl: ""
-url: ""
+baseurl: "/src"
+url: "bobbybaratheon.github.io"
 github_username: BobbyBaratheon
 theme: jekyll-theme-midnight
